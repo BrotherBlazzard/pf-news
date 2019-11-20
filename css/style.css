@@ -265,7 +265,7 @@ p{
 /*Style for GRaduating Students Grid*/
 #grid-2{
   display: grid;
-  grid-template-rows: 5fr;
+  grid-template-rows: 6fr;
   grid-row-gap: 1.5em;
   margin-left: 40px;
   margin-right: 40px;
@@ -312,6 +312,13 @@ p{
 
 .pic-Grad5{
   grid-row: 5;
+  display: flex; 
+  margin-right: 15%;
+  margin-left: 15%;;
+}
+
+.pic-Grad6{
+  grid-row: 6;
   display: flex; 
   margin-right: 15%;
   margin-left: 15%;;
